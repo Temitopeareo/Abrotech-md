@@ -1,4 +1,4 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> Abro Md </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -9,18 +9,18 @@
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="https://telegra.ph/file/758549f0de2219884f387.jpg">
+    <img alt="Suhail-Md" height="400" src="https://imgur.com/ps7QIot.jpg">
   </a>
 </p>
     
    
    
 <p align="center">
-   <a href="https://github.com/SuhailTechInfo/Suhail-Md/fork">
-    <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+   <a href="https://github.com/Temitopeareo/Abrotech-md/fork">
+    <img src="https://img.shields.io/github/forks/Temitopeareo/Abrotech-md?style=flat-square&logo=github&color=darkred">
    </a>
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md/stargazers"> 
-     <img src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+  <a href="https://github.com/Temitopeareo/Abrotech-md/stargazers"> 
+     <img src="https://img.shields.io/github/stars/Temitopeareo/Abrotech-md?style=flat-square&logo=github&color=darkred">
  </a>
 
 
@@ -34,10 +34,10 @@
 
 <p align="center">
 
- <a href="https://github.com/SuhailTechInfo">
- <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
-   <a href="https://github.com/SuhailTechInfo">
-    <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
+ <a href="https://github.com/Temitopeareo">
+ <img title="Owner" src="https://img.shields.io/badge/Temitopeareo-darkred?style=flat-square&logo=github&label=owner"></a>
+   <a href="https://github.com/Temitopeareo">
+    <img src="https://img.shields.io/github/followers/Temitopeareo?style=flat-square&logo=github&color=darkred">
   </a>
   
 
@@ -53,7 +53,7 @@
 
 
 
-<p align="center"> Suhail MD whatsapp bot uses
+<p align="center"> Abro MD whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><b>Suhail-Md</b></a> Support Deploy On...
+  <a href="https://github.com/Temitopeareo/Abro-Md"><b>Suhail-Md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@
 <p align="center">
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
-<p align="center">Need help? please create an <a href="https://github.com/SuhailTechInfo/Suhail-Md/issues">issue</a></p>
+<p align="center">Need help? please create an <a href="https://github.com/Temitopeareo/Abro-Md/issues">issue</a></p>
 
  
 
@@ -109,9 +109,9 @@
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
-3.  ***Click [`FORK`](https://github.com/SuhailTechInfo/Suhail-Md/fork) and `Star ⭐ Repository` for Courage.***
+3.  ***Click [`FORK`](https://github.com/Temitopeareo/Abrotech-md/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=suhail).  `FIXED! ✔️`***
+5.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Temitopeareo/Abrotech-md).  `FIXED! ✔️`***
 6.  ***Deploy on [`Replit`](https://suhail-web01.vercel.app/deploy?platform=repl). ([Tutorial](https://youtu.be/hPXU9OjMryQ) )***
 7.  ***Deploy on [`Railway`](https://suhail-web01.vercel.app/deploy?platform=railway). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
 8.  ***Deploy on [`Koyeb`](https://suhail-web01.vercel.app/deploy?platform=koyeb)***
@@ -135,7 +135,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then create an [`+issue`](https://github.com/SuhailTechInfo/Suhail-Md/issues/new) Or ask anything here [`+Q&A`](https://github.com/SuhailTechInfo/Suhail-Md/discussions/new?category=q-a)!
+- If any problem, then create an [`+issue`](https://github.com/Temitopeareo/Abrotech-md/issues/new) Or ask anything here [`+Q&A`](https://github.com/Temitopeareo/Abrotech-md/discussions/new?category=q-a)!
 
 
 
@@ -145,7 +145,7 @@
    
 ## 
 
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Abro-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
-
+- *Use Abro-Md at your own risk by keeping this warning in mind.*
+- *ABRO LOVES YALL*
