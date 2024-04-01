@@ -7,8 +7,8 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || ""                       // put your app url here,
-global.email ="samsamsun789@gmail.com"
-global.location="Lahore,Pakistan."
+global.email ="abrahamtemitope247@gmail.com"
+global.location="Lagos,Nigeria."
 
 
 global.mongodb= process.env.MONGODB_URI || "mongodb+srv://Abraham:Abraham@cluster0.jg7exji.mongodb.net/?retryWrites=true&w=majority"
@@ -16,10 +16,10 @@ global.allowJids= process.env.ALLOW_JID || "null"
 global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || ""
 
-global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
-global.github=process.env.GITHUB|| "https://github.com/Temitopeareo/Suhail-Md";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643" ; 
+global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
+global.github=process.env.GITHUB|| "https://github.com/Temitopeareo/Abrotech-md";
+global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/Fmkh7WvnIaW4Cafa49jjDc";
+global.website=process.env.GURL || "https://chat.whatsapp.com/Fmkh7WvnIaW4Cafa49jjDc" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://imgur.com/ps7QIot.jpg" ; // SET LOGO FOR IMAGE 
 
 
@@ -42,21 +42,21 @@ global.disablepm = process.env.DISABLE_PM || "false"
 global.disablegroup = process.env.DISABLE_GROUPS || "false", // disable bot in groups when public mode
 
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false" // "true"  to see messages , "log" to open logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES || "https://telegra.ph/file/758549f0de2219884f387.jpg,https://telegra.ph/file/9498496b010dfb5900b80.jpg,https://telegra.ph/file/59bf80efbb6e6576b5a52.jpg,https://telegra.ph/file/ee0e191363161e88e4743.jpg" // ramadan Theme Images
+global.userImages= process.env.USER_IMAGES || "https://imgur.com/ps7QIot.jpg,https://imgur.com/ps7QIot.jpg,https://imgur.com/ps7QIot.jpg,https://imgur.com/ps7QIot.jpg" // ramadan Theme Images
 global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
 //========================= [ AUTO READ MSGS & CMDS ] =========================\\
 global.readcmds = process.env.READ_COMMAND || "false"
 global.readmessage = process.env.READ_MESSAGE || "false"
-global.readmessagefrom = process.env.READ_MESSAGE_FROM || "2348100151048,923xxxxxxxx";
+global.readmessagefrom = process.env.READ_MESSAGE_FROM || "2348100151048";
 
 
 //========================= [ AUTO SAVE & READ STATUS ] =========================\\
 global.read_status = process.env.AUTO_READ_STATUS || "false"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
-global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "2348100151048,923xxxxxxxx";
+global.save_status_from =  process.env.SAVE_STATUS_FROM  || "2348100151048";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "2348100151048";
 
 global.api_smd = "https://api-smd-1.vercel.app"
 global.scan = "https://suhail-md-vtsf.onrender.com/";
@@ -67,12 +67,12 @@ global.SESSION_ID = process.env.SESSION_ID ||  "" ;
 
 module.exports = {
 
-  menu: process.env.MENU || "", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Suhail-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
+  menu: process.env.MENU || "", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Abro-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
 
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.3.1",
-  caption : process.env.CAPTION || "©ABRO-MD" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ABRO-MD 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "©ABRO-MD" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ABRO-MD 』```", //* ABROTECH LOVES Y'ALL"),
  
   author : process.env.PACK_AUTHER|| "ABRO-MD",
   packname: process.env.PACK_NAME || "♥️",
