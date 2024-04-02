@@ -1,5 +1,5 @@
- <h1 align="center"> ABRO-MD</h1> 
-<p align="center"> ***Introducing Abro-Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use***. </p>
+ <h1 align="center"> 🄰🄱🅁🄾 🄼🄳</h1> 
+<p align="center"> 𝕀𝕟𝕥𝕣𝕠𝕕𝕦𝕔𝕚𝕟𝕘 𝔸𝕓𝕣𝕠-𝕄𝕕, 𝕀𝕥 𝕚𝕤 𝕕𝕖𝕤𝕚𝕘𝕟𝕖𝕕 𝕥𝕠 𝕓𝕣𝕚𝕟𝕘 𝕒 𝕨𝕙𝕠𝕝𝕖 𝕟𝕖𝕨 𝕝𝕖𝕧𝕖𝕝 𝕠𝕗 𝕖𝕩𝕔𝕚𝕥𝕖𝕞𝕖𝕟𝕥 𝕥𝕠 𝕪𝕠𝕦𝕣 𝕓𝕠𝕣𝕚𝕟𝕘 𝕎𝕙𝕒𝕥𝕤𝔸𝕡𝕡 𝕦𝕤𝕖. </p>
 
 <p align="center">
   <a href="">
@@ -17,9 +17,13 @@
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
   <a aria-label="Abro_Md is free to use" href="" target="_blank">
-    <img alt="AbroTech" src="https://img.shields.io/youtube/channel/subscribers/k4C0Gqc7FWFuOV0E" target="_blank" />
+    <img alt="AbroTech" src="https://img.shields.io/youtube/channel/subscribers/UCCL29WTYxd3i4xVr85gwgdw" target="_blank" />
   </a>
-
+<a href="https://chat.whatsapp.com/Fmkh7WvnIaW4Cafa49jjDc" target="_blank">
+    <img alt="whatsapp group" src="https://img.shields.io/badge/ Whatsapp group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+ <p align="center">
+<a href="https://www.tiktok.com/@officialchrist_payne?_t=8lBb2tkmDkj&_r=1" target="blank"><img alt="tiktok acc" src="https://img.shields.io/badge/TIK-TOK-black" /> </a>
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{AbroTech}/count.svg" alt="AbroTech :: Visitor's Count" /></p>
 
@@ -86,17 +90,17 @@
 3.  ***Click [`FORK`](https://github.com/Temitopeareo/Abrotech-md/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Suhail-Md)***
-7.  ***Deploy on [`Replit`](https://replit.com/github/SuhailTechInfo/Suhail-Md)***
+6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Temitopeareo/Abrotech-md)***
+7.  ***Deploy on [`Replit`](https://replit.com/github/Temitopeareo/Abrotech-md)***
 8.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
-9.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/SuhailTechInfo/Suhail-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=923184474176&env[MONGODB_URI]&&env[OWNER_NAME]=Suhail&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Suhail+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=SUHAIL&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Asia/Karachi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/NpA3ZsJ.jpeg)***
+9.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Temitopeareo/Abrotech-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=2348100151048&env[MONGODB_URI]&&env[OWNER_NAME]=Abrobot&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Abro+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=ABRO-MD&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Lagos&name=Abro-md&env[KOYEB_NAME]=Abro-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/t9DtZcf.jpeg)***
 
 ##
 ---
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [``](https://wa.me/2348100151048)
+- If any problem, then [(`2378100151048`)](https://wa.me/2348100151048)
 
 
 ## CREDITS 
