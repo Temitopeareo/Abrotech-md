@@ -48,12 +48,12 @@
 <p align="center">
   <a href="https://suhail-web01.vercel.app/deploy.html"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://suhail-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/SuhailTechInfo/Suhail-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=923184474176&env[MONGODB_URI]&&env[OWNER_NAME]=Suhail&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Suhail+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=SUHAIL&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Asia/Karachi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/NpA3ZsJ.jpeg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Temitopeareo/Abrotech-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=2348100151048&env[MONGODB_URI]&&env[OWNER_NAME]=Abro&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Abro+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=ABROBOT&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Lagos&name=abro-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/NpA3ZsJ.jpeg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
 <p align="center">
-  <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://www.youtube.com/@LorDAbro"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
-<p align="center">Need help? please create an <a href="https://github.com/SuhailTechInfo/Suhail-Md/issues">issue</a></p>
+<p align="center">Need help? please create an <a href="https://github.com/Temitopeareo/Aneo-Md/issues">issue</a></p>
 
  
 
@@ -96,11 +96,18 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`+2349120730021`](https://wa.me/2349120730021)
+- If any problem, then [``](https://wa.me/2348100151048)
 
 
-### Thanks To
-- [ABRO TECH](https://github.com/temitopeareo) 
+## CREDITS 
+<div><button id="boton" type="button">Baileys - By suhaiL & adiwajshing</button></div>
+<a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="70" height="70" alt="adiwajshing"/></a>
+
+<div><button id="boton" type="button">maxwell-md  - By MAXWELL (Maxwellmd1)</button></div>
+<a href="https://github.com/Maxwellmd1"><img src="https://github.com/Maxwellmd1.png" width="70" height="70" alt="adiwajshing"/></a>
+
+## `Main Dev` 
+<a href="https://github.com/Temitopeareo"><img src="https://github.com/Temitopeareo.png" width="100" height="100" alt="ABRODEVS"/></a> 
 
 
 The Abro_Md is made available under the [GPL-3 license](https://github.com/Temitopeareo/Abrotech-md/blob/main/LICENCE).
@@ -114,3 +121,4 @@ The Abro_Md is made available under the [GPL-3 license](https://github.com/Temit
 - *In that case, I'm not responsible for banning your account.*
 - *Use Maxwell-md at your own risk by keeping this warning in mind so make una no go blame me (ABRO-MD).*
 - [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Temitopeareo/Abrotech-md)
+- `ABRO-MD BOT IS THE BEST`
