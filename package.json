@@ -5,8 +5,8 @@
    "main": "lib/client.js",
    "type": "commonjs",
    "scripts": {
-             "start": "pm2 start lib/client.js --deep-monitoring --attach --name Suhail",
-             "stop": "pm2 stop Abro"             
+             "start": "pm2 start lib/client.js --deep-monitoring --attach --name Abro-md",
+             "stop": "pm2 stop Abro-md"             
    },
    "author": "ABRO-MD",
   
