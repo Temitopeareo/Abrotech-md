@@ -6,25 +6,25 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 global.audio= "" ;  
 global.video= "" ;
 global.port =process.env.PORT
-global.appUrl=process.env.APP_URL || "https://telegra.ph/file/74fe969b16562689a33b1.jpg"                       // put your app url here,
-global.email ="emmanuelagbonye@gmail.com"
-global.location="Nigeria,Ogunstate."
-global.mongodb= process.env.MONGODB_URI || "mongodb+srv://steezy_maxwell:Steezy._.and._.Maxwell@maxwellandsteezy.wbmgyr4.mongodb.net/?retryWrites=true&w=majority"
+global.appUrl=process.env.APP_URL || "https://imgur.com/t9DtZcf.jpg"                       // put your app url here,
+global.email ="abrahamtemitope247@gmail.com"
+global.location="Africa,Lagos."
+global.mongodb= process.env.MONGODB_URI || "mongodb+srv://Abraham:Abraham@cluster0.jg7exji.mongodb.net/?retryWrites=true&w=majority"
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI=process.env.DATABASE_URL || "mongodb://uwrr2obvrb4kbwnrvimy:rbgieh8nfk7EylXCh2D@byg4ii8uzy5rro8bcdfu-mongodb.services.clever-cloud.com:2008/byg4ii8uzy5rro8bcdfu"
 global.scan = "https://suhail-md-vtsf.onrender.com/";
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "AFRICA/LAGOS";
-global.github=process.env.GITHUB|| "https://github.com/M-cross1/Suhail-Md/tree/main";
-global.gurl  =process.env.GURL  || "https://wa.me/2349120730021";
-global.website=process.env.GURL || "https://wa.me/2349120730021" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/ac60b32f3fcb180747985.jpg" ; // SET LOGO FOR IMAGE 
+global.github=process.env.GITHUB|| "https://github.com/Temitopeareo/Abrotech-md/";
+global.gurl  =process.env.GURL  || "https://wa.me/2348100151048";
+global.website=process.env.GURL || "https://wa.me/2348100151048" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://imgur.com/t9DtZcf.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
 global.devs = "2349120730021" // Developer Contact
-global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "2349120730021";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "2349120730021";
+global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "2348100151048";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "2348100151048";
 
 
 
@@ -38,7 +38,7 @@ global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable W
 global.warncount = process.env.WARN_COUNT || 5,
 global.disablepm = process.env.DISABLE_PM || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false", // "true"  to see messages , "log" to open logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/ac60b32f3fcb180747985.jpg",
+global.userImages= process.env.USER_IMAGES|| "https://imgur.com/t9DtZcf.jpg",
 global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
@@ -52,23 +52,23 @@ global.readmessagefrom = process.env.READ_MESSAGE_FROM || "null,923xxxxxxxx";
 global.read_status = process.env.AUTO_READ_STATUS || "false"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
 global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "2349120730021";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "2348100151048";
 
 
 
 module.exports = {
 
-  menu: process.env.MENU || "1", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Suhail-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
+  menu: process.env.MENU || "1", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Abro-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
 
-  HANDLERS : process.env.PREFIX || "✅",
+  HANDLERS : process.env.PREFIX || ".",
   BRANCH : process.env.BRANCH   || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "✙𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●✙" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "ABRO-MD" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ABRO-MD 』```", //*『sᴜʙsᴄʀɪʙᴇ • ABROBOT』*\n "),
  
-  author: process.env.PACK_AUTHER || "𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳",
-  packname: process.env.PACK_NAME || "₭ł₦₲ ₥₵ⱤØ₴₴",
-  botname : process.env.BOT_NAME  || "⫷𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫⫸",
-  ownername:process.env.OWNER_NAME|| "𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●",
+  author: process.env.PACK_AUTHER || "ABRO-MD",
+  packname: process.env.PACK_NAME || "ABROBOR",
+  botname : process.env.BOT_NAME  || "⫷ABRO-𝑴𝑫⫸",
+  ownername:process.env.OWNER_NAME|| "ABRO BOT",
 
   sessionName:process.env.SESSION_ID|| "",  // PUT SESSION ID HERE 
   errorChat: process.env.ERROR_CHAT || "",
@@ -84,7 +84,7 @@ module.exports = {
   aitts_Voice_Id : process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "https://api.elevenlabs.io/v1/text-to-speech/<voice-id>",
   WORKTYPE: process.env.WORKTYPE||process.env.MODE || "private",
-  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "𝑴𝑨𝑿𝑾𝑬𝑳𝑳",
+  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "ABROMD",
 
 
 
