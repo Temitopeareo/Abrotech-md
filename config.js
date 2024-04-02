@@ -17,7 +17,7 @@ global.scan = "https://suhail-md-vtsf.onrender.com/";
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "AFRICA/LAGOS";
 global.github=process.env.GITHUB|| "https://github.com/Temitopeareo/Abrotech-md/";
 global.gurl  =process.env.GURL  || "https://wa.me/2348100151048";
-global.website=process.env.GURL || "https://wa.me/2348100151048" ; 
+global.website=process.env.GURL || "https://chat.whatsapp.com/Fmkh7WvnIaW4Cafa49jjDc" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://imgur.com/t9DtZcf.jpg" ; // SET LOGO FOR IMAGE 
 
 
