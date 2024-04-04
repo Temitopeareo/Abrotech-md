@@ -9,7 +9,7 @@ global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || "https://imgur.com/t9DtZcf.jpg"                       // put your app url here,
 global.email ="abrahamtemitope247@gmail.com"
 global.location="Africa,Lagos."
-global.mongodb= process.env.MONGODB_URI || "mongodb+srv://Dev:<Temitope>@cluster0.1hgqhns.mongodb.net/?retryWrites=true&w=majority"
+global.mongodb= process.env.MONGODB_URI || "mongodb+srv://abro:md@cluster0.a3td1e8.mongodb.net/?retryWrites=true&w=majority"
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI=process.env.DATABASE_URL || "mongodb://uwrr2obvrb4kbwnrvimy:rbgieh8nfk7EylXCh2D@byg4ii8uzy5rro8bcdfu-mongodb.services.clever-cloud.com:2008/byg4ii8uzy5rro8bcdfu"
