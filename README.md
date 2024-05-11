@@ -1,5 +1,4 @@
-
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=800&color=FFFFFF&background=000000&center=true&width=910&height=100&lines=ABROTECH MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ABRO ;PUBLIC+RELESED+DATE;04/04/2024;." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=0&color=FFFFFF&background=000000&center=true&width=910&height=100&lines=ABROTECH MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ABRO ;PUBLIC+RELESED+DATE;04/04/2024;." alt="Typing SVG" /></a>
 
 <p align="center"> 𝕀𝕟𝕥𝕣𝕠𝕕𝕦𝕔𝕚𝕟𝕘 𝔸𝕓𝕣𝕠-𝕄𝕕, 𝕀𝕥 𝕚𝕤 𝕕𝕖𝕤𝕚𝕘𝕟𝕖𝕕 𝕥𝕠 𝕓𝕣𝕚𝕟𝕘 𝕒 𝕨𝕙𝕠𝕝𝕖 𝕟𝕖𝕨 𝕝𝕖𝕧𝕖𝕝 𝕠𝕗 𝕖𝕩𝕔𝕚𝕥𝕖𝕞𝕖𝕟𝕥 𝕥𝕠 𝕪𝕠𝕦𝕣 𝕓𝕠𝕣𝕚𝕟𝕘 𝕎𝕙𝕒𝕥𝕤𝔸𝕡𝕡 𝕦𝕤𝕖. </p>
 
